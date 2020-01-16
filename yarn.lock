@@ -1201,10 +1201,10 @@
   resolved "https://registry.yarnpkg.com/@types/minimist/-/minimist-1.2.0.tgz#69a23a3ad29caf0097f06eda59b361ee2f0639f6"
   integrity sha1-aaI6OtKcrwCX8G7aWbNh7i8GOfY=
 
-"@types/n3@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@types/n3/-/n3-1.1.0.tgz#62c8dc5744bd103c704289c934042f080d7ed3a2"
-  integrity sha512-u3hOs8PfCXgtuTlY6xCN4Wuv6707eWMy2mjJiaF+CS2PImcEACUvoDCC/a+Gi6J9KhhaX2ftN/ITPxFG0zw8zg==
+"@types/n3@^1.1.4":
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/@types/n3/-/n3-1.1.4.tgz#bbe29116cedf38a07658337b2d3daf9c3d3ce188"
+  integrity sha512-pznxeZY3Or+DoGLtD/y1Z2yQRrFooe8T0oA2Lcko76h3pvZJ1tB7BnB+K4xETE2AwgRxjRFZnterhMb6XU7s1Q==
   dependencies:
     "@types/node" "*"
     "@types/rdf-js" "*"

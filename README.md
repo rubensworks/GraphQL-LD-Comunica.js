@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/rubensworks/graphql-ld-comunica.js.svg?branch=master)](https://travis-ci.org/rubensworks/graphql-ld-comunica.js)
 [![Coverage Status](https://coveralls.io/repos/github/rubensworks/graphql-ld-comunica.js/badge.svg?branch=master)](https://coveralls.io/github/rubensworks/graphql-ld-comunica.js?branch=master)
-[![npm version](https://badge.fury.io/js/graphql-ld-comunica.svg)](https://www.npmjs.com/package/graphql-ld-comunica) [![Greenkeeper badge](https://badges.greenkeeper.io/rubensworks/graphql-ld-comunica.js.svg)](https://greenkeeper.io/)
+[![npm version](https://badge.fury.io/js/graphql-ld-comunica.svg)](https://www.npmjs.com/package/graphql-ld-comunica)
 
 This is a [GraphQL-LD](https://github.com/rubensworks/graphql-ld.js) engine for executing queries using the [Comunica](https://github.com/comunica/comunica) query engine.
 

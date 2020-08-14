@@ -46,7 +46,7 @@
     "ts-jest": "^26.0.0",
     "tslint": "^6.0.0",
     "tslint-eslint-rules": "^5.3.1",
-    "typescript": "^3.3.1"
+    "typescript": "^3.9.7"
   },
   "jest": {
     "globals": {
@@ -79,8 +79,8 @@
     "version": "manual-git-changelog onversion"
   },
   "dependencies": {
-    "@comunica/actor-init-sparql": "~1.13.0",
+    "@comunica/actor-init-sparql": "~1.15.0",
     "graphql-ld": "^1.1.0",
-    "sparqlalgebrajs": "^2.2.2"
+    "sparqlalgebrajs": "^2.3.2"
   }
 }

@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+<a name="v1.1.1"></a>
+## [v1.1.1](https://github.com/rubensworks/graphql-ld-comunica.js/compare/v1.1.0...v1.1.1) - 2020-08-24
+
+### Fixed
+* [Update to Comunica 1.16.2, Closes rubensworks/GraphQL-LD.js#28](https://github.com/rubensworks/graphql-ld-comunica.js/commit/1aa649a943ee1cfd5f95e4202b37abc5ee4e5f31)
+
 <a name="v1.1.0"></a>
 ## [v1.1.0](https://github.com/rubensworks/graphql-ld-comunica.js/compare/v1.0.2...v1.1.0) - 2020-08-14
 

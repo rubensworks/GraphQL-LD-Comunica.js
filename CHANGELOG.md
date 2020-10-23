@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+<a name="v1.1.2"></a>
+## [v1.1.2](https://github.com/rubensworks/graphql-ld-comunica.js/compare/v1.1.1...v1.1.2) - 2020-10-23
+
+### Changed
+* [Update dependency @comunica/actor-init-sparql to ~1.17.0](https://github.com/rubensworks/graphql-ld-comunica.js/commit/665ceb56c25935b04f37f4b3d4b35fe0ed92d30e)
+
 <a name="v1.1.1"></a>
 ## [v1.1.1](https://github.com/rubensworks/graphql-ld-comunica.js/compare/v1.1.0...v1.1.1) - 2020-08-24
 

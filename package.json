@@ -1,6 +1,6 @@
 {
   "name": "graphql-ld-comunica",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A GraphQL-LD engine that is backed by Comunica",
   "keywords": [
     "graphql",

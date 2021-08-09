@@ -1,6 +1,6 @@
 # Comunica for GraphQL-LD
 
-[![Build Status](https://travis-ci.org/rubensworks/graphql-ld-comunica.js.svg?branch=master)](https://travis-ci.org/rubensworks/graphql-ld-comunica.js)
+[![Build status](https://github.com/rubensworks/graphql-ld-comunica.js/workflows/CI/badge.svg)](https://github.com/rubensworks/graphql-ld-comunica.js/actions?query=workflow%3ACI)
 [![Coverage Status](https://coveralls.io/repos/github/rubensworks/graphql-ld-comunica.js/badge.svg?branch=master)](https://coveralls.io/github/rubensworks/graphql-ld-comunica.js?branch=master)
 [![npm version](https://badge.fury.io/js/graphql-ld-comunica.svg)](https://www.npmjs.com/package/graphql-ld-comunica)
 

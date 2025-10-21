@@ -86,7 +86,7 @@
     "version": "manual-git-changelog onversion"
   },
   "dependencies": {
-    "@comunica/actor-init-sparql": "^1.20.0",
+    "@comunica/actor-init-sparql": "^3.0.0",
     "graphql-ld": "^1.2.0",
     "sparqlalgebrajs": "^2.5.5"
   }

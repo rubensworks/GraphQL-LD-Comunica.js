@@ -48,7 +48,7 @@
     "coveralls": "^3.0.0",
     "jest": "^27.0.1",
     "manual-git-changelog": "^1.0.1",
-    "pre-commit": "^1.2.2",
+    "pre-commit": "^2.0.0",
     "streamify-string": "^1.0.1",
     "ts-jest": "^27.0.1",
     "tslint": "^6.0.0",

@@ -88,6 +88,6 @@
   "dependencies": {
     "@comunica/query-sparql": "^5.0.0",
     "graphql-ld": "^1.2.0",
-    "sparqlalgebrajs": "^2.5.5"
+    "sparqlalgebrajs": "^5.0.0"
   }
 }

@@ -2,8 +2,10 @@ const comunicaEngine = {
   query: jest.fn((query, context) => Promise.resolve(`{ "a": "b" }`)),
   resultToString: jest.fn((data) => Promise.resolve({ data: streamifyString(data) })),
 };
-jest.mock('@comunica/actor-init-sparql', () => ({
-  newEngine: () => comunicaEngine,
+jest.mock('@comunica/query-sparql', () => ({
+  QueryEngine: function QueryEngine() {
+    return comunicaEngine;
+  },
 }));
 
 import {IQueryEngine} from "graphql-ld";

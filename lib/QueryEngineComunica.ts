@@ -1,5 +1,4 @@
-import {newEngine} from "@comunica/actor-init-sparql";
-import {ActorInitSparql} from "@comunica/actor-init-sparql/lib/ActorInitSparql-browser";
+import {QueryEngine} from "@comunica/query-sparql";
 import {IQueryEngine} from "graphql-ld";
 import {Algebra} from "sparqlalgebrajs";
 import * as stringifyStream from "stream-to-string";
@@ -9,11 +8,11 @@ import * as stringifyStream from "stream-to-string";
  */
 export class QueryEngineComunica implements IQueryEngine {
 
-  private readonly comunicaEngine: ActorInitSparql;
+  private readonly comunicaEngine: QueryEngine;
   private readonly context: any;
 
   constructor(context: any) {
-    this.comunicaEngine = newEngine();
+    this.comunicaEngine = new QueryEngine();
     this.context = context;
   }
 
